@@ -1,0 +1,9 @@
+import sys
+
+from sense_hat import SenseHat
+
+sense = SenseHat()
+
+
+str(sys.argv)
+sense.show_message(str(sys.argv[1]))

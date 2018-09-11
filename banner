@@ -1,0 +1,22 @@
+#!/bin/bash
+  python delicious.py
+  python bounce4.py
+  python emoji.py
+  python show_weather.py
+  python delicious2.py
+  python bounce.py
+  python emoji.py
+  python show_weather.py
+  python delicious.py
+  python bounce3.py
+  python emoji.py
+  python show_weather.py
+  python delicious2.py
+  python bounce2.py
+  python emoji.py
+  python show_weather.py
+  python delicious.py
+  python bounce4.py
+  python emoji.py
+  python show_weather.py
+
